@@ -9,11 +9,11 @@
 
 ### Find more about me:
 
-[![website](./img/globe-light.svg)](https://bluka1-github-io.vercel.app/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://bluka1-github-io.vercel.app/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://bluka1-github-io.vercel.app)
+[![website](./img/globe-dark.svg)](https://bluka1-github-io.vercel.app)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/luka-batarelo#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/luka-batarelo#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/luka-batarelo)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/luka-batarelo)
 
 ### Languages and Tools:
 
