@@ -1,7 +1,7 @@
 ### Hi there, it's Luka here 👋
 
 - 🏢 I am currently working as a web developer
-- 💼 I am also teaching frontend development
+- 💼 I am also teaching frontend (JS) and backend (PHP) development
 - 🎤 I love to speak at local meetups, looking forward to speak at conferences
 - 💬 Ask me about programming, teaching, speaking
 
